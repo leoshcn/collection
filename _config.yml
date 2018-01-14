@@ -16,7 +16,7 @@
 title: 云叔文摘
 email: i@lixyun.com
 description: this is a personal blog about collections
-baseurl: "/collections" # the subpath of your site, e.g. /blog
+baseurl: "/collection" # the subpath of your site, e.g. /blog
 url: "http://www.lixyun.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leoshcn
 github_username:  leoshcn
